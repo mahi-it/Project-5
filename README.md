@@ -32,11 +32,9 @@ It allows users to create and manage Person, Employee, and Manager objects throu
 - Input & Output
 - Operators
 - Built-in Functions
-- User-Defined Methods
 - Classes & Objects
 - Constructor (`__init__`)
 - Inheritance
-- Single Inheritance
 - `super()`
 - Encapsulation
 - Private Variables
@@ -47,8 +45,6 @@ It allows users to create and manage Person, Employee, and Manager objects throu
 - Destructor (`__del__`)
 - `match-case`
 - `while` Loop
-- Conditional Statements (`if-else`)
-- Object Creation
 
 #### Tools & editor
 
