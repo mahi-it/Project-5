@@ -60,7 +60,7 @@ It allows users to create and manage Person, Employee, and Manager objects throu
 ### Repository
 
 mahi-it/Project-5
-├── Pr 5 OOP Wrapper.py
+├── Project-5 OOP Wrapper.py
 └── README.md
 
 ### Author
